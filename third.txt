@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 checking the git diff after commit 
+=======
+learining about git diff command
+>>>>>>> parent of 99abb5f (new commit)
