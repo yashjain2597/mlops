@@ -1,3 +1,7 @@
 this is 5th file
 
+<<<<<<< HEAD
 Hi Rohan
+=======
+Hi Yash
+>>>>>>> b1
